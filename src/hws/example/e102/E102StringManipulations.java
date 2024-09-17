@@ -16,5 +16,7 @@ public class E102StringManipulations {
             System.out.println(word.charAt(i));
         }
 
+
     }
+
 }

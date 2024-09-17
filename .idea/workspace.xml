@@ -1,38 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7cfb24d5-15f0-4de1-a731-5ef6f6296338" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e93/E93StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e93/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e94/E94StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e94/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e95/E95StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e95/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e96/E96StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e96/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e97/E97StringManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hws/example/e97/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e182/E182PrimeNumbersLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e183/E183List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e183/E183MonthlySales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e183/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e184/E184CountryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e184/E184List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e184/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e185/E185CustomerOrdersHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e185/E185Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e185/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e186/E186Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e186/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e187/E187Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e187/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e188/E188Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e188/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e189/E189Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e189/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e190/E190Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e190/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e191/E191Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e191/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e192/E192Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e192/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e193/E193Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e193/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e194/E194Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e194/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e195/E195Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e195/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e196/E196Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e196/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e197/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e197/E197Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e197/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e198/ConfigurationFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hws/example/e198/Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "elenabutterfield"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/hws/example" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elenabutterfield&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/elenabutterfield/newHwws.git",
-    "accountId": "ccff4e33-5774-417f-804e-a9b2fa4db1f5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elenabutterfield/newHwws.git&quot;,
+    &quot;accountId&quot;: &quot;ccff4e33-5774-417f-804e-a9b2fa4db1f5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,8 +85,56 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.E108JavaMethods.executor": "Run",
+    "Application.E109JavaMethods.executor": "Run",
+    "Application.E10StringConcatenation.executor": "Run",
+    "Application.E110JavaMethods.executor": "Run",
+    "Application.E111JavaMethods.executor": "Run",
+    "Application.E112JavaMethods.executor": "Run",
+    "Application.E113JavaMethods.executor": "Run",
+    "Application.E114JavaMethods.executor": "Run",
+    "Application.E115JavaMethods.executor": "Run",
+    "Application.E117JavaMethods.executor": "Run",
+    "Application.E119JavaMethods.executor": "Run",
+    "Application.E11StringConcatenation.executor": "Run",
+    "Application.E120Variables.executor": "Run",
+    "Application.E123Variables.executor": "Run",
+    "Application.E125Variables.executor": "Run",
+    "Application.E126Variables.executor": "Run",
+    "Application.E12CalculateCostArithmeticConcat.executor": "Run",
+    "Application.E134StaticKeyword.executor": "Run",
+    "Application.E144Constructor.executor": "Run",
+    "Application.E145Dog.executor": "Run",
+    "Application.E146Employee.executor": "Run",
+    "Application.E151Inheritance.executor": "Run",
+    "Application.E152SuperKeyWord.executor": "Run",
+    "Application.E155SuperKeyword.executor": "Run",
+    "Application.E157SuperKeyword.executor": "Run",
+    "Application.E160BankAccount.executor": "Run",
+    "Application.E171Encapsulation.executor": "Run",
+    "Application.E173TodoList.executor": "Run",
+    "Application.E175OrderManagement.executor": "Run",
+    "Application.E176WarehouseInventory.executor": "Run",
+    "Application.E184CountryList.executor": "Run",
+    "Application.E185CustomerOrdersHashSet.executor": "Run",
+    "Application.E185GroupChatApp.executor": "Run",
+    "Application.E186Set.executor": "Run",
+    "Application.E187Set.executor": "Run",
+    "Application.E188Set.executor": "Run",
+    "Application.E189Set.executor": "Run",
+    "Application.E190Map.executor": "Run",
+    "Application.E191Map.executor": "Run",
+    "Application.E192Map.executor": "Run",
+    "Application.E197Map.executor": "Run",
+    "Application.E32NestedIfAndScanner.executor": "Run",
+    "Application.E33NestedIfAndScanner.executor": "Run",
+    "Application.E35LogicalOperators.executor": "Run",
+    "Application.E36LogicalOperators.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SecuritySystem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Elena/IdeaProjects/newHws/src/hws/example"
   }
@@ -54,6 +143,85 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Elena\IdeaProjects\newHws\src\hws\example" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hws.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.E197Map">
+    <configuration name="E189Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hws.example.e189.E189Set" />
+      <module name="newHws" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hws.example.e189.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E190Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hws.example.e190.E190Map" />
+      <module name="newHws" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hws.example.e190.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E191Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hws.example.e191.E191Map" />
+      <module name="newHws" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hws.example.e191.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E192Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hws.example.e192.E192Map" />
+      <module name="newHws" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hws.example.e192.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E197Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hws.example.e197.E197Map" />
+      <module name="newHws" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hws.example.e197.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E197Map" />
+        <item itemvalue="Application.E192Map" />
+        <item itemvalue="Application.E191Map" />
+        <item itemvalue="Application.E190Map" />
+        <item itemvalue="Application.E189Set" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,5 +233,16 @@
       <updated>1723560865679</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

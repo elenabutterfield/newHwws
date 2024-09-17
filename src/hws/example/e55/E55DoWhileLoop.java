@@ -15,7 +15,7 @@ public class E55DoWhileLoop {
             System.out.println("You entered: "+favoriteNumber);
         }while (favoriteNumber!=7);
         System.out.println("You've entered 7! Loop ends.");
-
+scanner.close();
         // Use a do-while loop to collect user input until they enter the number 7
         // Inside the loop:
         // Print "Enter your favorite number:"

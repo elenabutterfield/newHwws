@@ -23,6 +23,7 @@ public class E33NestedIfAndScanner {
         } else {
             System.out.println("right");
         }
+
     }
 
         // Create a Scanner object to read input from the console
